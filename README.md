@@ -40,7 +40,7 @@ npm run build
 ## react_typescript説明
 react_typescriptはReact(リアクト)でTypescript(タイプスクリプト)を使うため設定に関してまとめたレポジトリ(Repository)です。このレポジトリ(Repository)を作る時作成したブログポストがあります。詳しく内容は下記のリンクを確認してください。
 
-- [ReactでTypescriptを使う](https://dev-yakuza.github.io/ko/react/typescript/)
+- [ReactでTypescriptを使う](https://dev-yakuza.github.io/react/typescript/)
 
 ### 使い方
 下記のコマンドでreact_typescriptレポジトリ(Repository)をコピー(Clone)します。
@@ -74,7 +74,7 @@ npm run build
 ## how to use react_typescript
 react_typescript repository is about how to configure to use Typescript in React. there are blog posts about this repository. if you want to know more details, see the link below.
 
-- [Use Typescript In React](https://dev-yakuza.github.io/ko/react/typescript/)
+- [Use Typescript In React](https://dev-yakuza.github.io/en/react/typescript/)
 
 ### How to use
 execute the command below to copy(clone) react_typescript repository.
