@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-react"],
+  "extends": ["tslint", "tslint-react"],
   "rules": {
     "align": [true, "parameters", "statements"],
     "jsx-alignment": false,
